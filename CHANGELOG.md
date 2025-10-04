@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.3 (2025-10-04)
+
+Full Changelog: [v0.0.2...v0.0.3](https://github.com/unityaisolutions/bandlab-sdk-typescript/compare/v0.0.2...v0.0.3)
+
+### Chores
+
+* **jsdoc:** fix [@link](https://github.com/link) annotations to refer only to parts of the package‘s public interface ([512688f](https://github.com/unityaisolutions/bandlab-sdk-typescript/commit/512688fd1fb20efb402b6f11ca620134d65212c6))
+
 ## 0.0.2 (2025-10-03)
 
 Full Changelog: [v0.0.1...v0.0.2](https://github.com/unityaisolutions/bandlab-sdk-typescript/compare/v0.0.1...v0.0.2)
